@@ -21,6 +21,9 @@
 - **Notebook**
   - [Local](./Simple_PyTorch_Integration.ipynb)
 
+- **Computation**
+  - Image tensor size output of CNN steps are explained in the documentation of [Conv2d](https://pytorch.org/docs/stable/generated/torch.nn.Conv2d.html) and [MaxPool2d](https://pytorch.org/docs/stable/generated/torch.nn.MaxPool2d.html).
+
 - **Learnings**
   - Flatten CNN output tensor
     - Here we have used the command ```x.reshape(x.size(0), -1)```.
