@@ -32,7 +32,8 @@
 ### Exploring W&B workspace
 
 - Instructor demonstrates
-  - How to run a training script integrated with Weights & Biases - Navigate the W&B workspace to view real-time metrics, interact with plots, and access system metrics.
+  - How to run a training script integrated with Weights & Biases.
+  - Navigate the W&B workspace to view real-time metrics, interact with plots, and access system metrics.
   - Highlights W&B's ability to capture information that helps with reproducibility.
 
 ### Comparing & analyzing experiments
@@ -82,4 +83,9 @@
 
 |Assignment|Description|
 |----------|-----------|
-|[Intro to W&B](https://colab.research.google.com/drive/1GqU8SKVFiZwFWAIqepG_FDjXpS7r9ZqS)| 1. Run an experiment by passing hyperparameters. 2. Log metrics.  3. Visualize results in dashboard.|
+|[Intro to W&B](./code/README.md#intro-to-wb)| <ul><li>Run an experiment by passing hyperparameters.</li> <li>Log metrics.</li>  <li>Visualize results in dashboard.</li></ul>|
+|[Simple PyTorch Integration](./code/README.md#simple-pytorch-integration)|<ul><li>Extension of above assigment by using CNN model.</li><li>Save model in ONNX format.</li></ul>|
+
+## Certificate
+
+- [Course completion certificate](https://kaushikacharya.github.io/assets/certificates/Weights_and_Biases_101.pdf)
